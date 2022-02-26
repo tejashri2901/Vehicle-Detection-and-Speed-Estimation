@@ -7,7 +7,7 @@ end = 0
 tracker = EuclideanDistTracker()
 
 # cap = cv2.VideoCapture("Resources/traffic3.mp4")
-cap = cv2.VideoCapture("traffic4.mp4")
+cap = cv2.VideoCapture("geeksvideo.mp4")
 f = 25
 w = int(1000/(f-1))
 # print(w)
